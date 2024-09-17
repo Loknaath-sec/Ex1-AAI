@@ -1,8 +1,8 @@
-<H3> Name : Loknaath P</H3>
-<H3>Register No: 212223240080</H3>
-<H3> Experiment 1</H3>
-<H3>DATE:</H3>
-                                       # Implementation of Bayesian Networks
+
+# Exp-1 Implementation of Bayesian Networks
+### Name: Loknaath P
+### Register No: 212223240080
+### DATE: 
 ## Aim :
     To create a bayesian Network for the given dataset in Python
 ## Algorithm:
